@@ -1,0 +1,12 @@
+# LibreOffice / Office lock files
+.~lock.*#
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
